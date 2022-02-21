@@ -11,7 +11,7 @@ The recipes generated are solely based on what food items are in the users fridg
 
 *Angela Wang (Scrum Master and Lead Designer) 
 *Hill Yu (Tech lead) 
-*Alexander Luce (Full-Stack Developer)
-*Jason Donovon (Front-End Developer) 
+-Alexander Luce (Full-Stack Developer)
+-Jason Donovon (Front-End Developer) 
 
 
