@@ -1,6 +1,6 @@
 # CSC431SmartFoodStorage
 
-  Smart Food Storage app designed for University of Miami CSC431 (Softwre Engineering) Spring 2022. This app is in its pre-alpha stgae. 
+  Smart Food Storage app designed for University of Miami CSC431 (Softwre Engineering) Spring 2022. This app is in its pre-alpha stage. 
   
   # What is *Smart Food Storage?* 
   
