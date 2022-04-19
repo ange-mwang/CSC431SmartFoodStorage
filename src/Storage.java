@@ -33,6 +33,7 @@ public class Storage {
                 "timeAdded TIMESTAMP DEFAULT CURRENT_TIMESTAMP, " +
                 "PRIMARY KEY ( name, timeAdded ))");
             System.out.println("Connected to Database");
+            this.isInitialized = true;
         } catch (SQLException e) {
             e.printStackTrace();
         }
